@@ -1,3 +1,4 @@
+<img src="./on-my-puter.jpg" alt="Cat sitting at a computer" width="300"/>
 <!--
 **ctlnwng/ctlnwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
